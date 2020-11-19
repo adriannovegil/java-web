@@ -1,1 +1,1 @@
-# Problematic Web Applications in Java
+# Web Applications in Java
